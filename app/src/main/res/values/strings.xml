@@ -10,4 +10,11 @@
     <string name="bt8">8</string>
     <string name="bt9">9</string>
     <string name="bt0">0</string>
+    <string name="btcoma">,</string>
+    <string name="btequal">=</string>
+    <string name="btClear">AC</string>
+    <string name="btPlus">+</string>
+    <string name="btMinus">-</string>
+    <string name="btDiv">÷</string>
+    <string name="btMult">X</string>
 </resources>
